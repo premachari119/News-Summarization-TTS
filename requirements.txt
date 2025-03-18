@@ -1,0 +1,9 @@
+fastapi
+streamlit
+requests
+beautifulsoup4
+transformers
+nltk
+uvicorn
+soundfile
+gTTS
