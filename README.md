@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 title: News Summarization TTS
 emoji: 🏃
@@ -148,3 +149,6 @@ This application provides news summarization, sentiment analysis, and audio gene
 * **Clear Setup Instructions:** Added virtual environment instructions.
 
 Remember to replace `<repository_url>` and `<deployment_link>` with your actual values.
+=======
+# News-Summarization-TTS
+>>>>>>> 1c0707101958d4de03e0e21aca23aa4d7db6ce9a
