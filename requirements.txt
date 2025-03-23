@@ -1,9 +1,8 @@
-fastapi
 streamlit
+fastapi
+uvicorn
 requests
 beautifulsoup4
 transformers
-nltk
-uvicorn
-soundfile
-gTTS
+gtts
+tenacity
